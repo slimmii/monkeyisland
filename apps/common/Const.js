@@ -36,7 +36,7 @@ Const.DEBUG_MOSTRA_SUBITO_FINALE = true;
 
 // Giuste
 
-Const.DEBUG_SALTA_INTRO = true;
+Const.DEBUG_SALTA_INTRO = false;
 Const.DEBUG_TIPO_PARTITA = 0;
 Const.DEBUG_INIZIA_SUBITO_DA_CARLA = true;
 Const.DEBUG_ANIMAZIONI = false;
