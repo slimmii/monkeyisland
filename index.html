@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Monkey Island - Insult Swordfighting Game</title>
+<meta name="title" content="Monkey Island - Insult Swordfighting Game">
+<meta name="description" content="You must seek out and defeat the Sword Master of Mêlée Island... and remember: you fight like a dairy farmer!">
+<link rel="image_src" href="http://www.int33h.com/test/mi/img/icona90mi.jpg" />
+<meta name="author" content="Karza">
+<link rel="stylesheet" href="css/screen.css">
+<script type="text/javascript" src="libs/include_libs.js"></script>
+<script type="text/javascript" src="apps/include_apps.js"></script>
+<script>
+$(document).ready(init);
+
+function init(){
+  // Visualizza il preloader
+  initPreloaderApp();
+  // Inizializza l'app
+  var pathRes = "xml/resources.xml"
+	initMainApp(pathRes);
+}
+
+function callTagAlias(parm){
+
+}
+</script>
+</head>
+
+<body>
+
+</div>
+<script>
+function showLink33(){
+	jQuery("#linkInt33").show();
+}
+</script>
+
+<!-- preloader -->
+<div class="preloaderApp">
+	<img class="clipLoader" src="img/preloader/monkeyLoader.gif">
+	<label class="lblLoader">Loading...</label>
+</div>
+
+<!-- main app -->
+<div id="mainApp" class="mainApp">
+	<canvas id="stage" width="1280" height="800"></canvas>
+</div>
+
+<!-- library -->
+<div id="library" class="library">
+<img id="imgGuybrush" src="">
+<img id="imgCarla" src="">
+<img id="imgPirata0" src="">
+<img id="imgPirata1" src="">
+<img id="imgPirata2" src="">
+<img id="imgPirata3" src="">
+<img id="imgRoom0" src="">
+<img id="imgRoom1" src="">
+<img id="imgScabb" src="">
+<img id="imgFuocherello" src="">
+<img id="imgFuoco" src="">
+<img id="imgRoom5" src="">
+<img id="imgRoom85" src="">
+<img id="imgPir1Campfire" src="">
+<img id="imgPir2Campfire" src="">
+<img id="imgGuyCampfire" src="">
+<img id="imgFontPiccole" src="">
+<img id="imgFontPiccoleVerdi" src="">
+<img id="imgFontGrandiGrandi" src="">
+<img id="imgFontGrandiBianche" src="">
+<img id="imgFontGrandiGialle" src="">
+<img id="imgFontGrandiGrigie" src="">
+<img id="imgFontGrandiRosa" src="">
+<img id="imgFontGrandiRosse" src="">
+<img id="imgFontGrandiRosseAlt" src="">
+<img id="imgFontGrandiVerdi" src="">
+<img id="imgFontGrandiViola" src="">
+<img id="imgPirataThumb0" src="">
+<img id="imgPirataThumb1" src="">
+<img id="imgPirataThumb2" src="">
+<img id="imgPirataThumb3" src="">
+<img id="imgPirataThumb4" src="">
+<img id="imgCarlaGrande0" src="">
+<img id="imgCarlaGrande1" src="">
+<img id="imgGuybrushWin0" src="">
+<img id="imgGuybrushWin1" src="">
+</div>
+
+<div id="audioIntro">
+	<audio>
+		<source src="snd/intro.mp3" type="audio/mp3">
+		<source src="snd/intro.ogg" type="audio/ogg">
+	</audio>
+</div>
+
+<div id="audioScelta">
+	<audio loop="loop">
+		<source src="snd/sceltaSfidante.mp3" type="audio/mp3">
+		<source src="snd/sceltaSfidante.ogg" type="audio/ogg">
+	</audio>
+</div>
+
+<div id="audioFight">
+	<audio loop="loop">
+		<source src="snd/fight.mp3" type="audio/mp3">
+		<source src="snd/fight.ogg" type="audio/ogg">
+	</audio>
+</div>
+
+<div id="audioHit0">
+	<audio>
+		<source src="snd/hit0.mp3" type="audio/mp3">
+		<source src="snd/hit0.ogg" type="audio/ogg">
+	</audio>
+</div>
+<div id="audioHit1">
+	<audio>
+		<source src="snd/hit1.mp3" type="audio/mp3">
+		<source src="snd/hit1.ogg" type="audio/ogg">
+	</audio>
+</div>
+<div id="audioHit2">
+	<audio>
+		<source src="snd/hit2.mp3" type="audio/mp3">
+		<source src="snd/hit2.ogg" type="audio/ogg">
+	</audio>
+</div>
+<div id="audioHit3">
+	<audio>
+		<source src="snd/hit3.mp3" type="audio/mp3">
+		<source src="snd/hit3.ogg" type="audio/ogg">
+	</audio>
+</div>
+
+<div id="audioWin">
+	<audio>
+		<source src="snd/hitWin.mp3" type="audio/mp3">
+		<source src="snd/hitWin.ogg" type="audio/ogg">
+	</audio>
+</div>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37032515-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

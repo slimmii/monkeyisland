@@ -1,0 +1,20 @@
+(function() {
+  document.writeln('<script type="text/javascript" src="apps/common/Global.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/common/Const.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/preloader/PreloaderApp.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/MainAppStandardSteps.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/MainApp.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/ImagesBuilder.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/Intro.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/Speaker.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/Speech.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/Costume.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/FontCreator.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/SceltaMultipla.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/SceltaSfidante.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/Partita.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/Round.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/Fight.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/Insulto.js"></script>');
+  document.writeln('<script type="text/javascript" src="apps/main/Endtro.js"></script>');
+}).call(this);
