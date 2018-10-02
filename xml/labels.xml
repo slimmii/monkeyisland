@@ -14,61 +14,61 @@
 		<str name="app.smallspsh_en"><![CDATA[On mobile/touch devices I had to use very small sprites, so please zoom! :-)]]></str>
 
     <!-- INTRO -->
-    <str name="app.intro_en"><![CDATA[Deep in the Kitty\nCat Islands]]></str>
+    <str name="app.intro_en"><![CDATA[Deep in some mysterious place]]></str>
 
-    <str name="app.intro_s0_0_en"><![CDATA[So I bust into the\nchurch and say, \"Now\nyou're in for it, you\nbilious bag of barnacle\nbait!\"]]></str>
-    <str name="app.intro_s0_1_en"><![CDATA[...and then LeChuck\ncries,\"Guybrush! Have\nmercy!\"]]></str>
-    <str name="app.intro_s0_2_en"><![CDATA[\n"I can't take it\nanymore!\"]]></str>
+    <str name="app.intro_s0_0_en"><![CDATA[So I poured into the \nglass and say, \"Now\nyou're in for it, you\nbilious bag of barnacle\nbait!\"]]></str>
+    <str name="app.intro_s0_1_en"><![CDATA[...and then Dave\ncried,\"Karel! Have\nmercy!\"]]></str>
+    <str name="app.intro_s0_2_en"><![CDATA[\n"I'm on fire!\"]]></str>
 
-    <str name="app.intro_s1_0_en"><![CDATA[I think I know how he must have\nfelt.]]></str>
+    <str name="app.intro_s1_0_en"><![CDATA[I\'d gladly switch places with him\nnow.]]></str>
 
     <str name="app.intro_s2_0_en"><![CDATA[Yeah, if I hear this story one more time,\nI'm gonna be crying myself.]]></str>
 
     <str name="app.intro_s3_0_en"><![CDATA[Don't you have any NEW stories?]]></str>
 
 		<str name="app.intro_s4_0_en"><![CDATA[\n\nOf course!]]></str>
-		<str name="app.intro_s4_1_en"><![CDATA[\nDid I ever tell you\nhow I defeated...]]></str>
-		<str name="app.intro_s4_2_en"><![CDATA[\n...the Sword Master\nof Mêlèe Island™]]></str>
+		<str name="app.intro_s4_1_en"><![CDATA[\nDid I ever tell you\nhow I discovered...]]></str>
+		<str name="app.intro_s4_2_en"><![CDATA[\n...the secret of the tip of a\nchocolate cornetto]]></str>
 
 		<str name="app.intro_s5_0_en"><![CDATA[Uhm...]]></str>
 		<str name="app.intro_s5_1_en"><![CDATA[Ehm...]]></str>
 
-		<str name="app.intro_s6_0_en"><![CDATA[Better this than\nthe one about LeChuck...]]></str>
+		<str name="app.intro_s6_0_en"><![CDATA[Better this than\nthe one about Dave...]]></str>
 
-		<str name="app.intro_istruzioni_en"><![CDATA[<INSTRUCTIONS>]]></str>
+		<str name="app.intro_istruzioni_en"><![CDATA[Instructions]]></str>
 
 
 
-		<str name="app.intro_s7_0_en"><![CDATA[Capitain Smirk\ntaught me the true secret\nof sword fighting!]]></str>
+		<str name="app.intro_s7_0_en"><![CDATA[An old man\ntaught me the true secret\nof the cornetto!]]></str>
 		<str name="app.intro_s7_1_en"><![CDATA[\n\nHe told me:]]></str>
-		<str name="app.intro_s7_2_en"><![CDATA[\n"It's not always what you do,\nbut what you say."]]></str>
-		<str name="app.intro_s7_3_en"><![CDATA[\n\nIn short, the pros...]]></str>
-		<str name="app.intro_s7_4_en"><![CDATA[...they know just when\nto cut their opponent\nwith an insult...]]></str>
-		<str name="app.intro_s7_5_en"><![CDATA[\n...one that catches 'em\noff guard.]]></str>
-		<str name="app.intro_s7_6_en"><![CDATA[\nYour wit's got to be twice\nas sharp as your sword!]]></str>
-		<str name="app.intro_s7_7_en"><![CDATA[\n\nImagine this:]]></str>
-		<str name="app.intro_s7_8_en"><![CDATA[\nWe're fighting up\na storm...]]></str>
-		<str name="app.intro_s7_9_en"><![CDATA[There's a sudden break\nin the fighting and\nI say to you...]]></str>
-		<str name="app.intro_s7_10_en"><![CDATA[\n"You fight like a dairy\nfarmer."]]></str>
-		<str name="app.intro_s7_11_en"><![CDATA[\n\nYou respond with?]]></str>
+		<str name="app.intro_s7_2_en"><![CDATA[\n"In the winter \nde glazen jozef is closed."]]></str>
+		<str name="app.intro_s7_3_en"><![CDATA[\n\nSo... There was no ice cream...]]></str>
+		<str name="app.intro_s7_4_en"><![CDATA[...I went looking for the \n ultimate replacement for\n delicious icecream...]]></str>
+		<str name="app.intro_s7_5_en"><![CDATA[\n...but found nothing\nof similar quality.]]></str>
+		<str name="app.intro_s7_6_en"><![CDATA[\nAll cones went soft and moist!]]></str>
+		<str name="app.intro_s7_7_en"><![CDATA[\n\nNone were good enough!]]></str>
+		<str name="app.intro_s7_8_en"><![CDATA[\nAnd then I went to the GB...]]></str>
+		<str name="app.intro_s7_9_en"><![CDATA[and I was feeling hot as hell!]]></str>
+		<str name="app.intro_s7_10_en"><![CDATA[\n"I looked in the freezer \n and it looked glorious"]]></str>
+		<str name="app.intro_s7_11_en"><![CDATA[\n\nYou know what I saw?]]></str>
 
 		<str name="app.intro_s8_0_en"><![CDATA[Uhm...]]></str>
 		<str name="app.intro_s8_1_en"><![CDATA[Err...]]></str>
 
-		<str name="app.intro_s9_0_en"><![CDATA["I'm shaking,\nI'm shaking."]]></str>
-		<str name="app.intro_s9_1_en"><![CDATA["I am rubber,\nyou are glue."]]></str>
+		<str name="app.intro_s9_0_en"><![CDATA["A bag of \nfrozen peas?"]]></str>
+		<str name="app.intro_s9_1_en"><![CDATA["A big piece\n of meat?"]]></str>
 
 		<str name="app.intro_s10_0_en"><![CDATA[\n\n                  No!]]></str>
-		<str name="app.intro_s10_1_en"><![CDATA[\nYou should have responded\nwith something like...]]></str>
-		<str name="app.intro_s10_2_en"><![CDATA[\n"How appropriate.\nYou fight like a cow."]]></str>
-		<str name="app.intro_s10_3_en"><![CDATA[\n\nYou see?]]></str>
+		<str name="app.intro_s10_1_en"><![CDATA[\nThe last box of \ngolden cornetto...]]></str>
+		<str name="app.intro_s10_2_en"><![CDATA[\nIt had a special glowing halo]]></str>
+		<str name="app.intro_s10_3_en"><![CDATA[\n\nGlorious!]]></str>
 		<str name="app.intro_s10_4_en"><![CDATA[\nIt's razor-sharp wit like\nthat, that wins fights!]]></str>
 		<str name="app.intro_s10_5_en"><![CDATA[\n\nLet's try another, I say...]]></str>
 		<str name="app.intro_s10_6_en"><![CDATA[\n"Soon you'll be wearing my\nsword like a shish-kabob!"]]></str>
-		<str name="app.intro_s10_7_en"><![CDATA[\n\nYou respond with?]]></str>
+		<str name="app.intro_s10_7_en"><![CDATA[\n\nYou know what was special?]]></str>
 
-		<str name="app.intro_s11_0_en"><![CDATA["How appropriate.\nYou fight like\na cow."]]></str>
-		<str name="app.intro_s11_1_en"><![CDATA["How appropriate.\nYou fight like\na cow."]]></str>
+		<str name="app.intro_s11_0_en"><![CDATA["It had a special \nkind of nut?"]]></str>
+		<str name="app.intro_s11_1_en"><![CDATA["Did it contain\n special sprinkles?"]]></str>
 
 		<str name="app.intro_s12_0_en"><![CDATA[\n\n         No! No! No!]]></str>
 		<str name="app.intro_s12_1_en"><![CDATA[\nThat was the response from\nthe last insult.]]></str>
@@ -77,7 +77,7 @@
 		<str name="app.intro_s12_4_en"><![CDATA[\n\nSee?]]></str>
 		<str name="app.intro_s12_5_en"><![CDATA[\n\n...razor-sharp!]]></str>
 
-		<str name="app.intro_d0_0_en"><![CDATA[I want to play with the insults of Monkey Island 1! (NORMAL)]]></str>
+		<str name="app.intro_d0_0_en"><![CDATA[I want to fight for the location of the last golden cornetto]></str>
 		<str name="app.intro_d0_1_en"><![CDATA[I want to play with the insults of Monkey Island 3! (HARD)]]></str>
 		<str name="app.intro_d0_2_en"><![CDATA[I want to play with all the insults! (VERY HARD)]]></str>
 

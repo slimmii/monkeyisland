@@ -309,10 +309,7 @@ Intro.prototype.dialoghiStep6 = function(){
 }
 
 Intro.prototype.dialoghiStep7 = function(){
-	var speech = new Speech(Lng.ln("intro_istruzioni"));
-	this.mcIstruzioni = this.speakerIstruzioni.speak(this.stage,0,600,1280,[speech]);
 	var ct = this;
-	this.idsi = setInterval(function(){ct.intermittenzaIstruzioni(ct)} , 500);
 
 	this.giraPirata("dx");
 	var aTmp = new Array();
