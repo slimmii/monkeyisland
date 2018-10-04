@@ -323,8 +323,8 @@
 		<!-- Ending -->
     <str name="app.endtro_s0_0_en"><![CDATA[Hey! Where have you gone?]]></str>
     <str name="app.endtro_s0_1_en"><![CDATA[Ha!]]></str>
-    <str name="app.endtro_s0_2_en"><![CDATA[Those guys wouldn't know\na good story even if they\npaid fifty bucks for it.]]></str>
-    <str name="app.endtro_s0_3_en"><![CDATA[Wait a second...\nHow was this related to \nthe secret \ncornetto again?]]></str>
+    <str name="app.endtro_s0_2_en"><![CDATA[Wait a second...\nHow was this related to \nthe secret \ncornetto again?]]></str>
+    <str name="app.endtro_s0_3_en"><![CDATA[I wonder what that \ncode was about?\n\nKWERTY2 right?]]></str>
 
 		<str name="app.endtro_s1_0_en"><![CDATA[I want to share my achievement on Facebook!]]></str>
 		<str name="app.endtro_s1_1_en"><![CDATA[I want to share my achievement on Twitter!]]></str>
