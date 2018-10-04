@@ -136,11 +136,11 @@ Endtro.prototype.attesa = function(){
 
 Endtro.prototype.scegliCheFare = function(){
 	var aOpzioni = new Array();
-	aOpzioni.push(Lng.ln("endtro_s1_0"));
-	aOpzioni.push(Lng.ln("endtro_s1_1"));
-	aOpzioni.push(Lng.ln("endtro_s1_2"));
-	aOpzioni.push(Lng.ln("endtro_s1_3"));
-	aOpzioni.push(Lng.ln("endtro_s1_4"));
+	// aOpzioni.push(Lng.ln("endtro_s1_0"));
+	// aOpzioni.push(Lng.ln("endtro_s1_1"));
+	// aOpzioni.push(Lng.ln("endtro_s1_2"));
+	// aOpzioni.push(Lng.ln("endtro_s1_3"));
+	// aOpzioni.push(Lng.ln("endtro_s1_4"));
 	this.sceltaMultipla = new SceltaMultipla(aOpzioni,this.stage,8,576,1280,216,{callback:this.sceltaEffettuata,ct:this});
 	this.sceltaMultipla.init();
 }

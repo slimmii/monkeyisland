@@ -47,7 +47,7 @@
 		<str name="app.intro_s7_5_en"><![CDATA[\n...but found nothing\nof similar quality.]]></str>
 		<str name="app.intro_s7_6_en"><![CDATA[\nAll cones went soft and moist!]]></str>
 		<str name="app.intro_s7_7_en"><![CDATA[\n\nNone were good enough!]]></str>
-		<str name="app.intro_s7_8_en"><![CDATA[\nAnd then I went to the GB...]]></str>
+		<str name="app.intro_s7_8_en"><![CDATA[\nAnd then I went to the store...]]></str>
 		<str name="app.intro_s7_9_en"><![CDATA[and I was feeling hot as hell!]]></str>
 		<str name="app.intro_s7_10_en"><![CDATA[\n"I looked in the freezer \n and it looked glorious"]]></str>
 		<str name="app.intro_s7_11_en"><![CDATA[\n\nYou know what I saw?]]></str>
@@ -62,36 +62,36 @@
 		<str name="app.intro_s10_1_en"><![CDATA[\nThe last box of \ngolden cornetto...]]></str>
 		<str name="app.intro_s10_2_en"><![CDATA[\nIt had a special glowing halo]]></str>
 		<str name="app.intro_s10_3_en"><![CDATA[\n\nGlorious!]]></str>
-		<str name="app.intro_s10_4_en"><![CDATA[\nIt's razor-sharp wit like\nthat, that wins fights!]]></str>
-		<str name="app.intro_s10_5_en"><![CDATA[\n\nLet's try another, I say...]]></str>
-		<str name="app.intro_s10_6_en"><![CDATA[\n"Soon you'll be wearing my\nsword like a shish-kabob!"]]></str>
-		<str name="app.intro_s10_7_en"><![CDATA[\n\nYou know what was special?]]></str>
+		<str name="app.intro_s10_4_en"><![CDATA[\nBut there was one catch...]]></str>
+		<str name="app.intro_s10_5_en"><![CDATA[\n\nI had to fight \nsomeone for it.]]></str>
+		<str name="app.intro_s10_6_en"><![CDATA[\nAfter a sword fight... \nI tasted its glory!]]></str>
+		<str name="app.intro_s10_7_en"><![CDATA[\n\nYou know why it was special?]]></str>
 
-		<str name="app.intro_s11_0_en"><![CDATA["It had a special \nkind of nut?"]]></str>
+		<str name="app.intro_s11_0_en"><![CDATA["It contained special \nkind of nuts?"]]></str>
 		<str name="app.intro_s11_1_en"><![CDATA["Did it contain\n special sprinkles?"]]></str>
 
 		<str name="app.intro_s12_0_en"><![CDATA[\n\n         No! No! No!]]></str>
-		<str name="app.intro_s12_1_en"><![CDATA[\nThat was the response from\nthe last insult.]]></str>
-		<str name="app.intro_s12_2_en"><![CDATA[\n\nA correct response is:]]></str>
-		<str name="app.intro_s12_3_en"><![CDATA["First you'd better stop\nwaving it around like\na feather-duster."]]></str>
+		<str name="app.intro_s12_1_en"><![CDATA[\nYou guys are idiots. \nIt's so obvious!]]></str>
+		<str name="app.intro_s12_2_en"><![CDATA[\n\nThe secret is:]]></str>
+		<str name="app.intro_s12_3_en"><![CDATA[The chocolate is in the \ntip of the cornetto]]></str>
 		<str name="app.intro_s12_4_en"><![CDATA[\n\nSee?]]></str>
 		<str name="app.intro_s12_5_en"><![CDATA[\n\n...razor-sharp!]]></str>
 
-		<str name="app.intro_d0_0_en"><![CDATA[I want to fight for the location of the last golden cornetto]></str>
+		<str name="app.intro_d0_0_en"><![CDATA[I also want to fight for the golden cornetto]]></str>
 		<str name="app.intro_d0_1_en"><![CDATA[I want to play with the insults of Monkey Island 3! (HARD)]]></str>
 		<str name="app.intro_d0_2_en"><![CDATA[I want to play with all the insults! (VERY HARD)]]></str>
 
-		<str name="app.intro_s13_0_en"><![CDATA[\n\nI said...]]></str>
-		<str name="app.intro_s13_1_en"><![CDATA[\n...I had to challenge\nmany pirates...]]></str>
+		<str name="app.intro_s13_0_en"><![CDATA[\n\nI need...]]></str>
+		<str name="app.intro_s13_1_en"><![CDATA[\n...I need to challenge\nde neejberhood...]]></str>
 		<str name="app.intro_s13_2_en"><![CDATA[\n\n...to learn the insults...]]></str>
-		<str name="app.intro_s13_3_en"><![CDATA[\n\n...to master this technique!]]></str>
+		<str name="app.intro_s13_3_en"><![CDATA[\n\n...to master the technique!]]></str>
 
 		<!-- SCELTA AVVERSARIO -->
 
 		<str name="app.descPirata0_en"><![CDATA[De Fristi]]></str>
 		<str name="app.descPirata1_en"><![CDATA[De Wezzze]]></str>
-		<str name="app.descPirata2_en"><![CDATA[Den Dave]]></str>
-		<str name="app.descPirata3_en"><![CDATA[De Slimmy]]></str>
+		<str name="app.descPirata2_en"><![CDATA[De Slimmy]]></str>
+		<str name="app.descPirata3_en"><![CDATA[Den Dave]]></str>
 		<str name="app.descPirata4_en"><![CDATA[Ilze]]></str>
 
 		<str name="app.scelta_istruzioni_en"><![CDATA[Choose your opponent!]]></str>
@@ -102,8 +102,8 @@
 		<str name="app.saluto2_en"><![CDATA[Move outta the way, or I cuts\n my way through!]]></str>
 		<str name="app.saluto3_en"><![CDATA[Aye, this better be importan'.]]></str>
 
-		<str name="app.saluto_carla0_en"><![CDATA[How dare you approach\nthe Sword Master\nwithout permission...]]></str>
-		<str name="app.saluto_carla1_en"><![CDATA[Which I surely didn't\ngive you.]]></str>
+		<str name="app.saluto_carla0_en"><![CDATA[How dare you approach\nme without some\nicecream!...]]></str>
+		<str name="app.saluto_carla1_en"><![CDATA[Which You surely don't\nhave.]]></str>
 
 		<!-- DIALOGO INIZIALE -->
 		<str name="app.dialogo0_0_en"><![CDATA[My name is Karel Crombecq. Prepare\nto die!]]></str>
@@ -112,23 +112,26 @@
 		<!-- DIALOGO INIZIALE CARLA -->
 		<str name="app.dialogo1_0_en"><![CDATA[I beg your pardon, I must talk to you.]]></str>
 		<str name="app.dialogo1_1_en"><![CDATA[My name is Karel Crombecq. I've come\nto kill you.]]></str>
-		<str name="app.dialogo1_2_en"><![CDATA[I'm selling these fine leather jackets.]]></str>
+		<str name="app.dialogo1_2_en"><![CDATA[I'm selling these fine bombardels.]]></str>
 
 		<str name="app.rispostaCarla0_0_en"><![CDATA[I doubt that.]]></str>
 		<str name="app.rispostaCarla0_1_en"><![CDATA[Everyone who comes here is prepared\nto fight.]]></str>
-		<str name="app.rispostaCarla0_2_en"><![CDATA[Let's be honest: you're here to prove\nyourself to the Pirate Leaders, in hopes\nof one day being as immoral as they are.]]></str>
+		<str
+				name="app.rispostaCarla0_2_en"><![CDATA[Let's be honest: you're here to claim\nthe last cornetto, in hopes\nof one day understanding
+				its secret.]]></str>
 
 		<str name="app.rispostaCarla1_0_en"><![CDATA[Nothing like being honest.]]></str>
 
-		<str name="app.rispostaCarla2_0_en"><![CDATA[Do you have one in size 3?]]></str>
+		<str name="app.rispostaCarla2_0_en"><![CDATA[Do you have one in green?]]></str>
 		<str name="app.rispostaCarla2_1_en"><![CDATA[Of course you don't!]]></str>
-		<str name="app.rispostaCarla2_2_en"><![CDATA[Because you're not really a jacket\nsalesman!]]></str>
-		<str name="app.rispostaCarla2_3_en"><![CDATA[Let's be honest: you're here to prove\nyourself to the Pirate Leaders, in hopes\nof one day being as immoral as they are.]]></str>
+		<str name="app.rispostaCarla2_2_en"><![CDATA[Because you're not really a bombardel\nsalesman!]]></str>
+		<str name="app.rispostaCarla2_3_en"><![CDATA[Let's be honest: you're here to claim\nthe last cornetto, in hopes\nof one day understanding
+				its secret.]]></str>
 
 
 		<str name="app.replicaGuy_en"><![CDATA[Yep, nailed it right on the head... gee,\nyou're smart.]]></str>
 		<str name="app.replicaGuy2_en"><![CDATA[I'm back, and boy are you in trouble\nthis time.]]></str>
-		<str name="app.chiusuraDialogo_en"><![CDATA[I can tell by the sarcastic expression\non your face that you've been fully\ntrained by Captain Smirk.]]></str>
+		<str name="app.chiusuraDialogo_en"><![CDATA[I can tell by the sarcastic expression\non your face that you've been fully\ntrained already.]]></str>
 		<str name="app.preludioCombattimento_en"><![CDATA[Let's get this over with.]]></str>
 
 
@@ -308,20 +311,20 @@
 
 		<!-- vittoria Carla dialogo finale-->
 		<str name="app.wincarla0_en"><![CDATA[Well... I hope you're happy.]]></str>
-		<str name="app.wincarla1_en"><![CDATA[You can go back and brag to all\nyour friends about how you beat\nthe Sword Master.]]></str>
+		<str name="app.wincarla1_en"><![CDATA[You can go back and brag to all\nyour friends about how you beat\nthe great Ilse.]]></str>
 		<str name="app.wincarla2_en"><![CDATA[You'll need proof...]]></str>
 		<str name="app.wincarla3_en"><![CDATA[Here, this should convince them.]]></str>
 
 		<str name="app.winguybrush0_en"><![CDATA[Well, this is a 100% Cotton T-shirt...]]></str>
 		<str name="app.winguybrush1_en"><![CDATA[It says...]]></str>
-		<str name="app.winguybrush2_en"><![CDATA["I beat the Sword Master"]]></str>
+		<str name="app.winguybrush2_en"><![CDATA["KWERTY2"]]></str>
 		<str name="app.winguybrush3_en"><![CDATA[AWESOME!]]></str>
 
 		<!-- Ending -->
     <str name="app.endtro_s0_0_en"><![CDATA[Hey! Where have you gone?]]></str>
     <str name="app.endtro_s0_1_en"><![CDATA[Ha!]]></str>
     <str name="app.endtro_s0_2_en"><![CDATA[Those guys wouldn't know\na good story even if they\npaid fifty bucks for it.]]></str>
-    <str name="app.endtro_s0_3_en"><![CDATA[Luckily I can always tell \nall my friends\non Facebook or Twitter!]]></str>
+    <str name="app.endtro_s0_3_en"><![CDATA[Wait a second...\nHow was this related to \nthe secret \ncornetto again?]]></str>
 
 		<str name="app.endtro_s1_0_en"><![CDATA[I want to share my achievement on Facebook!]]></str>
 		<str name="app.endtro_s1_1_en"><![CDATA[I want to share my achievement on Twitter!]]></str>

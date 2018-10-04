@@ -91,11 +91,11 @@ function setArrayImmagini(){
 	aRif.push("img/pir1campfire.png");
 	aRif.push("img/pir2campfire.png");
 	aRif.push("img/guybcampfire.png");
-	aRif.push("img/pirataThumb0.png");
-	aRif.push("img/pirataThumb1.png");
-	aRif.push("img/pirataThumb2.png");
-	aRif.push("img/pirataThumb3.png");
-	aRif.push("img/pirataThumb4.png");
+	aRif.push("img/fristi.png");
+	aRif.push("img/wezzze.png");
+	aRif.push("img/slimmy.png");
+	aRif.push("img/dave.png");
+	aRif.push("img/ilze.png");
 	aRif.push("img/carlaGrande0.png");
 	aRif.push("img/carlaGrande1.png");
 	aRif.push("img/guybrushWin0.png");
